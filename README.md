@@ -1,1 +1,1 @@
-Subject: Computational intelligence: 1. Artificial neural network exercises. 
+Exercises/Projects  -> Python and Jupyter Notebook. 
